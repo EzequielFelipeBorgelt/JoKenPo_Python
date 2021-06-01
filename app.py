@@ -100,3 +100,4 @@ while escolha != 's':
                 print('\nObrigado por participar do Jogo.')
             else:
                 os.system("cls")
+                #
